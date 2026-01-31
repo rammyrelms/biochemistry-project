@@ -1,0 +1,22 @@
+body {
+font-family: Arial, sans-serif;
+margin: 40px;
+background-color: #f4f7f6;
+line-height: 1.6;
+}
+
+nav a {
+margin-right: 15px;
+text-decoration: none;
+color: darkgreen;
+font-weight: bold;
+}
+
+img {
+max-width: 100%;
+margin: 20px 0;
+}
+
+h1, h2 {
+color: #2f4f4f;
+}
